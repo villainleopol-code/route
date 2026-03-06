@@ -11,3 +11,4 @@
     "minimist": "0.0.8"
   }
 }
+"serialize-javascript": "2.1.0"
