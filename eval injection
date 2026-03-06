@@ -1,0 +1,9 @@
+app.post("/calculate",(req,res)=>{
+
+ const formula = req.body.formula
+
+ const result = eval(formula)
+
+ res.send({result})
+
+})
