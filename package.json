@@ -1,0 +1,13 @@
+{
+  "name": "vulnerable-ecommerce-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "4.16.0",
+    "lodash": "4.17.15",
+    "jsonwebtoken": "8.5.1",
+    "mysql": "2.18.1"
+  },
+  "devDependencies": {
+    "minimist": "0.0.8"
+  }
+}
